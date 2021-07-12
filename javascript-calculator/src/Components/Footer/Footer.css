@@ -1,3 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Tokyo+Zoo&display=swap');
+
+.footer-div {
+    background-color: #4a4a4a;
+   padding: 15px;
+   border-radius: 80%;
+   margin-top: 20px;
+   box-shadow: 10px 10px rgba(0, 0, 0, .5);
+}
+
 h3 {
     text-align: center;
+    font-family: 'Zen Tokyo Zoo', sans-serif;
 }
