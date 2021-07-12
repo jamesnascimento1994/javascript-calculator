@@ -14,8 +14,8 @@
 		'AC C div times'
 		'seven eight nine minus'
 		'four five six plus'
-		'one two three equal'
-		'zero zero dot equal';
+		'one two three equals'
+		'zero zero dot equals';
 }
 
 .padButton {
@@ -37,7 +37,7 @@
 	background-color: sienna;
 	color: lightgray;
 }
-.dis {
+.display {
 	grid-area: dis;
   background-color: gray;
 }
@@ -50,6 +50,6 @@
 	grid-area: zero;
 }
 
-.equal {
-	grid-area: equal;
+.equals {
+	grid-area: equals;
 }
