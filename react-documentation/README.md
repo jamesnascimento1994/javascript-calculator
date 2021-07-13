@@ -15,6 +15,6 @@ Users can multiply, add, subtract, multiply, and divide any combination of integ
 - Programming Languages: HTML, CSS, JavaScript
 - Frameworks/Libraries: React
 
-App deployed on Heroku
+App deployed on Netlify
 
-https://woody-calculator.herokuapp.com/
+https://woody-calculator.netlify.app/
