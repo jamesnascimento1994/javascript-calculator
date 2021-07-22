@@ -4,7 +4,7 @@ import './Header.css';
 const Header = () => {
     return (
         <div className="header-div">
-            <h1>React Calculator</h1>
+            <h1>Woody Calculator</h1>
         </div>
     )
 }
