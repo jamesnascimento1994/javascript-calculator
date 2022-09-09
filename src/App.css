@@ -36,7 +36,11 @@ body {
 	cursor: pointer;
 	font-size: 25px;
 }
-
+.padButton:hover {
+	transition: ease-in-out .5s;
+	background-color: #4a291e;
+	color: #39801d;
+}
 .rosy-brown {
 	background-color: rosybrown;
 }
